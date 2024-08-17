@@ -1,0 +1,1 @@
+init=/init pci=noearly console=logk0 console=ttyS0 earlyprintk=nologger code_bytes=128 loglevel=8 vmalloc=256M androidboot.hardware=saltbay androidboot.spid=xxxx:xxxx:xxxx:xxxx:xxxx:xxxx androidboot.serialno=01234567890123456789012345678901 snd_pcm.maximum_substreams=8 ptrace.ptrace_can_access=1 nmi_watchdog=panic softlockup_panic=1 ip=50.0.0.2:50.0.0.1::255.255.255.0::usb0:on

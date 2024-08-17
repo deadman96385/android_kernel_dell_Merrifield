@@ -1,0 +1,4 @@
+Steps to build the boot.img
+
+1. Copy prebuilts to this folder
+2. Run ./kernel_build.sh
